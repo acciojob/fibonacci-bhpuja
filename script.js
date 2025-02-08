@@ -1,5 +1,5 @@
-function fibonacci(num) {
-// your code here
-}
+// function fibonacci(num) {
+// // your code here
+// }
 
-module.exports = fibonacci;
+// module.exports = fibonacci;
